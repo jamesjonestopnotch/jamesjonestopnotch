@@ -17,7 +17,7 @@
 
 ### 🏅 Certifications  
 📜 **[JavaScript (Essentials 1)](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)** — Verified by [Credly](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)  
-📜 **[JavaScript (Essentials 2)](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)** — Verified by [Credly](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)  
+📜 **[JavaScript (Essentials 2)](https://www.credly.com/badges/78ae652f-9d9e-49bf-bf90-e1e8b5193ee7)** — Verified by [Credly](https://www.credly.com/badges/78ae652f-9d9e-49bf-bf90-e1e8b5193ee7)  
 📜 **[Python (Essentials 1)](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)** — Verified by [Credly](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)  
 📜 **[Python (Essentials 2)](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)** — Verified by [Credly](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)  
 
