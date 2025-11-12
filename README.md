@@ -16,10 +16,10 @@
 ---
 
 ### 🏅 Certifications  
-📜 **[JavaScript (Essentials 1)](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)** — Verified by [Credly](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)  
-📜 **[JavaScript (Essentials 2)](https://www.credly.com/badges/78ae652f-9d9e-49bf-bf90-e1e8b5193ee7)** — Verified by [Credly](https://www.credly.com/badges/78ae652f-9d9e-49bf-bf90-e1e8b5193ee7)  
-📜 **[Python (Essentials 1)](https://www.credly.com/badges/615ea8c0-1418-4ee7-aa1c-04900a274e21)** — Verified by [Credly](https://www.credly.com/badges/615ea8c0-1418-4ee7-aa1c-04900a274e21)  
-📜 **[Python (Essentials 2)](https://www.credly.com/badges/ef4f7372-7775-4470-a413-07c6b4819e00)** — Verified by [Credly](https://www.credly.com/badges/ef4f7372-7775-4470-a413-07c6b4819e00)  
+📜 **[JavaScript (Essentials 1)](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)** — Verified by [Credly](https://www.credly.com/)  
+📜 **[JavaScript (Essentials 2)](https://www.credly.com/badges/78ae652f-9d9e-49bf-bf90-e1e8b5193ee7)** — Verified by [Credly](https://www.credly.com/)  
+📜 **[Python (Essentials 1)](https://www.credly.com/badges/615ea8c0-1418-4ee7-aa1c-04900a274e21)** — Verified by [Credly](https://www.credly.com/)  
+📜 **[Python (Essentials 2)](https://www.credly.com/badges/ef4f7372-7775-4470-a413-07c6b4819e00)** — Verified by [Credly](https://www.credly.com/)  
 
 ---
 
