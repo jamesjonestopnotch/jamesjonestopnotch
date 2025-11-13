@@ -32,7 +32,7 @@
 
 ### 📫 Let’s Connect   
 <img src="https://cdn.simpleicons.org/upwork" width="20" /> [Upwork Profile](https://www.upwork.com/freelancers/~01549120b19ac1e6b7)  
-<img src="https://cdn.simpleicons.org/gmail" width="15" /> [jamesjohnson42345@outlook.com](mailto:jamesjohnson42345@outlook.com)
+<img src="https://cdn.simpleicons.org/maildotcom" width="15" /> [jamesjohnson42345@outlook.com](mailto:jamesjohnson42345@outlook.com)
 
 ---
 
