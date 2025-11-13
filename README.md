@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jacob Jones  
 
-### 💼 Full-Stack Engineer | JavaScript Stack (React/Angular/Vue/TypeScript), Node.js, .NET, Python, AI Apps  
+### Full-Stack Engineer | JavaScript Stack (React/Angular/Vue/TypeScript), Node.js, .NET, Python, AI Apps  
 
 🚀 Passionate about building **scalable web apps**, **AI-driven platforms**, and **end-to-end automation systems** that make real impact.  
 
