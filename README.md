@@ -16,10 +16,10 @@
 ---
 
 ### 🏅 Certifications  
-<img src="https://cdn.simpleicons.org/javascript" width="20" /> **[JavaScript (Essentials 1)](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)** — Verified by [Credly](https://www.credly.com/)  
-<img src="https://cdn.simpleicons.org/javascript/00C853" width="20" /> **[JavaScript (Essentials 2)](https://www.credly.com/badges/78ae652f-9d9e-49bf-bf90-e1e8b5193ee7)** — Verified by [Credly](https://www.credly.com/)  
-<img src="https://cdn.simpleicons.org/python" width="20" /> **[Python (Essentials 1)](https://www.credly.com/badges/615ea8c0-1418-4ee7-aa1c-04900a274e21)** — Verified by [Credly](https://www.credly.com/)  
-<img src="https://cdn.simpleicons.org/python/FF3B30" width="20" /> **[Python (Essentials 2)](https://www.credly.com/badges/ef4f7372-7775-4470-a413-07c6b4819e00)** — Verified by [Credly](https://www.credly.com/)  
+<img src="https://cdn.simpleicons.org/javascript" width="16" /> **[JavaScript (Essentials 1)](https://www.credly.com/badges/f2ef6aa2-3ec9-4172-82c2-8ebf21d05282)** — Verified by [Credly](https://www.credly.com/)  
+<img src="https://cdn.simpleicons.org/javascript/00C853" width="16" /> **[JavaScript (Essentials 2)](https://www.credly.com/badges/78ae652f-9d9e-49bf-bf90-e1e8b5193ee7)** — Verified by [Credly](https://www.credly.com/)  
+<img src="https://cdn.simpleicons.org/python" width="16" /> **[Python (Essentials 1)](https://www.credly.com/badges/615ea8c0-1418-4ee7-aa1c-04900a274e21)** — Verified by [Credly](https://www.credly.com/)  
+<img src="https://cdn.simpleicons.org/python/FF3B30" width="16" /> **[Python (Essentials 2)](https://www.credly.com/badges/ef4f7372-7775-4470-a413-07c6b4819e00)** — Verified by [Credly](https://www.credly.com/)  
 
 ---
 
@@ -31,8 +31,8 @@
 ---
 
 ### 📫 Let’s Connect   
-<img src="https://cdn.simpleicons.org/upwork" width="20" /> [Upwork Profile](https://www.upwork.com/freelancers/~01549120b19ac1e6b7)  
-<img src="https://cdn.simpleicons.org/maildotcom" width="15" /> [jamesjohnson42345@outlook.com](mailto:jamesjohnson42345@outlook.com)
+<img src="https://cdn.simpleicons.org/upwork" width="17" /> [Upwork Profile](https://www.upwork.com/freelancers/~01549120b19ac1e6b7)  
+<img src="https://cdn.simpleicons.org/maildotcom" width="15" /> &nbsp;[jamesjohnson42345@outlook.com](mailto:jamesjohnson42345@outlook.com)
 
 ---
 
